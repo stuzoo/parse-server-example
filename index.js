@@ -24,7 +24,7 @@ var api = new ParseServer({
 			apiKey: '' // The Server API Key of GCM
 		},
 		ios: {
-			pdx: 'ludoagain.p12', // the path and filename to the .p12 file you exported earlier. 
+			pdx: 'ludodev.p12', // the path and filename to the .p12 file you exported earlier. 
 			bundleId: '', // The bundle identifier associated with your app
 			production: false
 		}
